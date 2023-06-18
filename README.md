@@ -13,6 +13,6 @@ Location : https://goo.gl/maps/yzJ3Uo5X7z2WjVSt7
 
 ### Google Maps Image
 
-![Prince Highlands Apartment](./assets/images/prince_highlands.jpg)
+![Prince Highlands Apartment](./assets/img/prince_highlands.jpg)
 
 * * *
